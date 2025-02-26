@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Kaifkazi000
-- 👀 I’m interested in ...coding,programming
-- 🌱 I’m currently learning ...Pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kaifoddinkazi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Computer Engineer student | Full Stack Developer
+🚀 Building Scalable E-Commerce Solutions | 🌱 Exploring the World of Trading
+🤖 Diving into Machine Learning & Data Analytics | 📊 Transforming Data into Insights
+🎯 Blending Code with Creativity | Always Learning, Always Growing
 
-<!---
-Kaifkazi000/Kaifkazi000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Connect with me: www.linkedin.com/in/kaifoddin-kazi-b27858257
